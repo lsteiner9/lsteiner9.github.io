@@ -15,4 +15,4 @@ forward to gaining experience in Android app development!
 
 ## Links
 
-* [LinkedIn](www.linkedin.com/in/laura-steiner-a5a50a3b)
+* [LinkedIn](https://www.linkedin.com/in/laura-steiner-a5a50a3b)
