@@ -14,3 +14,5 @@ forward to gaining experience in Android app development!
 * Hello World: Android app 
 
 ## Links
+
+* [LinkedIn](www.linkedin.com/in/laura-steiner-a5a50a3b)
