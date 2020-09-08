@@ -9,4 +9,8 @@ forward to gaining experience in Android app development!
 
 ## Current Projects
 
+*Hello World: Java console application 
+
+*Hello World: Android app 
+
 ## Links
