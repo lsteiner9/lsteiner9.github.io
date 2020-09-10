@@ -9,9 +9,9 @@ forward to gaining experience in Android app development!
 
 ## Current Projects
 
-* Hello World: Java console application 
+* [Hello World: Java console application] (https://github.com/lsteiner9/deep-dive-hello-world-ij)
 
-* Hello World: Android app 
+* [Hello World: Android app] (https://github.com/lsteiner9/hello-world)
 
 ## Links
 
