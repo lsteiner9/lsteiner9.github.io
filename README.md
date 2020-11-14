@@ -1,6 +1,6 @@
 ## Introduction
 
-Laura is a professional violist, violinist, and music teacher. She recently graduated from UNM with a master's degree in music, and is currently attending the Deep Dive Coding Java + Android Bootcamp, gaining experience in Android app development.
+Laura is an aspiring Java developer, as well as a professional violist, violinist, and music teacher. She recently graduated from UNM with a master's degree in music, and is currently attending the Deep Dive Coding Java + Android Bootcamp, gaining experience in Android app development.
 
 ### Current projects
 
@@ -18,4 +18,8 @@ Laura is a professional violist, violinist, and music teacher. She recently grad
 
 ## Links
 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/in/laurasteinerviola/)
+
+* [YouTube](https://www.youtube.com/channel/UCeUSKKE-TqScB49RpeZuAQA)
+
+* [Music website](https://lsteiner98.wixsite.com/website)
