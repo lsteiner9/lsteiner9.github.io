@@ -1,7 +1,8 @@
 title: Laura Steiner
 description: Java developer, violist, violinist, teacher
-teaser: headshot-reduced.jpg
 titles_from_headings:
   enabled: false
-
+author:
+  name: Laura Steiner
+  avatar: headshot-reduced.png
 theme: jekyll-theme-tactile
