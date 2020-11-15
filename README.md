@@ -1,4 +1,4 @@
-![Laura Steiner, PC Shea Perry](headshot-reduced.jpg)
+<img src="headshot-reduced.jpg" width="250">
 
 ## Introduction
 
