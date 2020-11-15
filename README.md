@@ -1,4 +1,4 @@
-![Laura Steiner, PC Shea Perry](Laura-Steiner.jpg)
+![Laura Steiner, PC Shea Perry](headshot-reduced.jpg)
 
 ## Introduction
 
