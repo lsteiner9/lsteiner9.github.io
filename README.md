@@ -1,4 +1,4 @@
-<img src="headshot-reduced.jpg" width="250">
+<img src="headshot-reduced.jpg" width="200">
 
 ## Introduction
 
