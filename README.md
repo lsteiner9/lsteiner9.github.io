@@ -28,7 +28,7 @@ Musically, Laura has many interests and pursuits. She performs a wide variety of
 	
 	* [Server Repository](https://github.com/tunefull/tunefull-service)
 	
-	* App repository in progress
+	* [App Repository](https://github.com/tunefull/tunefull)
 
 ## Recently updated repositories
 
