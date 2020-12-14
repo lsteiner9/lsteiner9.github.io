@@ -1,10 +1,16 @@
-![Laura Steiner, PC Shea Perry](headshot-reduced.jpg)
+<img src="headshot-reduced.jpg" width="225">
 
 ## Introduction
 
 Laura Steiner is a Java developer and a professional violist, violinist, and music teacher. During 2020, she graduated from UNM with a master's degree in music. Most recently, she graduated from the Deep Dive Coding Java + Android Bootcamp, gaining experience in Android app development in addition to previous coding experience from her undergraduate degree. Both apps that Laura developed during the bootcamp reflect her interest in creating applications that combine music and technology to improve people's lives.
 
 Musically, Laura has many interests and pursuits. She performs a wide variety of music, ranging from the Baroque period to new music of the 21st-century. Laura is at home performing as a soloist and in groups of all sizes, from small chamber ensembles to large orchestras. She has also composed several small pieces for string instruments. Laura pursues research in music theory and earned distinction for her Master's thesis on emotion in film music, entitled "Musical Wonder and Awe in Narnia: Comparing Two Related Emotions." She has taught music theory and applied violin, viola, and ensemble classes at the university level. Laura currently maintains a small but dedicated studio of private violin and viola students.
+
+## Areas of interest in software development
+
+* Combining music and technology to improve people's lives.
+
+* Optimizing code for efficiency and self-documenting readability
 
 ## Current projects
 
