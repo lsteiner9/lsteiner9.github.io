@@ -8,9 +8,11 @@ Musically, Laura has many interests and pursuits. She performs a wide variety of
 
 ## Areas of interest in software development
 
-* Combining music and technology to improve people's lives.
+* Java
 
-* Optimizing code for efficiency and self-documenting readability
+* Python
+
+* Combining music and technology to improve people's lives.
 
 ## Current projects
 
